@@ -6,6 +6,8 @@ requires-python = ">=3.12"
 dependencies = [
     "dashscope>=1.26.0",
     "notebook>=7.6.0",
+    "openai>=1.0.0",
+    "python-dotenv>=1.0.0",
 ]
 
 [[tool.uv.index]]
